@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "Api",
+    "codeZe-us-patch-1",
+    "dev",
+    "feat/dynamic-network-fee-458",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "Api": "main",
+    "codeZe-us-patch-1": "main",
+    "dev": "main",
+    "feat/dynamic-network-fee-458": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "Api",
+    "codeZe-us-patch-1",
+    "dev",
+    "feat/dynamic-network-fee-458",
+    "origin"
+  ]
+}
